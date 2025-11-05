@@ -1,0 +1,23 @@
+{
+  "regions": {
+    "mecca": {
+      "city": "Mecca",
+      "country": "Saudi Arabia",
+      "method": 4,
+      "coordinates": {"lat": 21.4225, "lng": 39.8262}
+    },
+    "madina": {
+      "city": "Medina",
+      "country": "Saudi Arabia", 
+      "method": 4,
+      "coordinates": {"lat": 24.5247, "lng": 39.5692}
+    },
+    "dubai": {
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "method": 4,
+      "coordinates": {"lat": 25.2769, "lng": 55.2962}
+    }
+  },
+  "user_regions": {}
+}

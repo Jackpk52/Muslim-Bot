@@ -1,0 +1,25 @@
+# 🕌 Muslim Bot Configuration
+
+# Bot Settings
+BOT_PREFIX=!
+BOT_STATUS=Use !help for Islamic commands
+
+# API Settings
+PRAYER_API_URL=http://api.aladhan.com/v1/timingsByCity
+WEATHER_API_URL=https://api.openweathermap.org/data/2.5/weather
+
+# Default Region
+DEFAULT_CITY=Mecca
+DEFAULT_COUNTRY=Saudi Arabia
+DEFAULT_METHOD=4
+
+# Prayer Time Settings
+PRAYER_NAMES=Fajr,Sunrise,Dhuhr,Asr,Maghrib,Isha
+PRAYER_BUFFER=5
+
+# Conversion Settings
+SHAHADA=Ash-hadu an la ilaha illa Allah, wa ash-hadu anna Muhammadan rasulu Allah
+WELCOME_MESSAGE=Assalamu Alaikum! Welcome to Islam, brother/sister!
+
+# Weather Settings
+WEATHER_UNITS=metric
