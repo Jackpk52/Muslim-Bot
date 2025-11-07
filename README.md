@@ -5,6 +5,7 @@ A comprehensive Discord bot designed to serve the Muslim community with Islamic 
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-flat&logo=discord&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-flat&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+[Link[(https://jackpk52.github.io/Muslim-Bot/)
 
 ## 🌟 Features
 
@@ -249,5 +250,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Join our Discord server for support and updates: [Invite Link](https://discord.gg/)
 
 ---
+
 
 *Note: This bot is a tool to assist Muslims in their daily Islamic practices. Always verify important religious matters with knowledgeable scholars.*
